@@ -1,10 +1,13 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\ISSUE_TEMPLATE",
+    "\\.github\\workflows",
     "\\docs",
     "\\src",
     "\\src\\depends"
   ],
-  "SelectedNode": "\\docs\\index.rst",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
