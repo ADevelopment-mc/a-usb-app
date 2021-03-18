@@ -1,5 +1,5 @@
 # A USB Kernel Module
-[![gitter](https://img.shields.io/badge/-gitter-green)](https://gitter.im/a-usb-app/community)
+[![Gitter](https://badges.gitter.im/a-usb-app/community.svg)](https://gitter.im/a-usb-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 My Raspberry Pi based USB's kernel module.
 This project is currently not in active development! I will make a website for it though.
