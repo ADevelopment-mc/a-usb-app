@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\docs",
     "\\src",
     "\\src\\depends"
   ],
-  "SelectedNode": "\\src\\main.cpp",
+  "SelectedNode": "\\docs\\index.rst",
   "PreviewInSolutionExplorer": false
 }
