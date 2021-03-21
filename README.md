@@ -1,5 +1,7 @@
 # A USB Kernel Module
 
+# I am currently focusing on my Roblox game (check my account README for it). This project is currently inactive until i get the supplies to start it.
+
 [![Join the chat at https://gitter.im/a-usb-app/community](https://badges.gitter.im/a-usb-app/community.svg)](https://gitter.im/a-usb-app/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![Development Status](https://img.shields.io/badge/development-inactive-red)
 =======
